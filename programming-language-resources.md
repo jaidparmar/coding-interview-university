@@ -12,17 +12,17 @@
 - C++
     - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
     - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - basics
-    - pointers
-    - class and object
-    - functions
-    - references
-    - templates
-    - compilation
-    - scope & linkage
-    - namespaces
-    - OOP
-    - STL
+    - [basics](https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm)
+    - [pointers](https://www.cprogramming.com/tutorial/lesson6.html)
+    - [class and object](https://www.cprogramming.com/tutorial/lesson12.html)
+    - [functions](https://www.cprogramming.com/tutorial/lesson4.html)
+    - [references](https://www.geeksforgeeks.org/references-in-c/)
+    - [templates](https://www.cprogramming.com/tutorial/templates.html)
+    - [compilation](https://www.youtube.com/watch?v=ZTu0kf-7h08)
+    - [scope & linkage](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
+    - [namespaces](https://www.tutorialspoint.com/cplusplus/cpp_namespaces.htm)
+    - [OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+    - [STL](https://www.hackerearth.com/practice/notes/standard-template-library/)
     - [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
     - [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
     - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
@@ -71,6 +71,7 @@
     - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
     - [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
     - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+    - [Javascript Algorithms With Explanations](https://github.com/trekhleb/javascript-algorithms)
 - Other Language 1
 - Other Language 2
 - etc
